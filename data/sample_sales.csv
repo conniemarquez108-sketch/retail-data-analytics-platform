@@ -1,0 +1,11 @@
+transaction_id,date,store,product,category,quantity,unit_price
+1001,2026-01-01,Atlanta,Milk,Grocery,5,3.50
+1002,2026-01-01,Atlanta,Bread,Bakery,10,2.00
+1003,2026-01-02,Georgia,Apples,Produce,8,1.50
+1004,2026-01-02,Atlanta,Rice,Grocery,4,12.00
+1005,2026-01-03,Georgia,Eggs,Grocery,6,4.00
+1006,2026-01-03,Atlanta,Chicken,Meat,3,9.50
+1007,2026-01-04,Georgia,Bananas,Produce,12,1.00
+1008,2026-01-04,Atlanta,Bread,Bakery,7,2.00
+1009,2026-01-05,Georgia,Milk,Grocery,4,3.50
+1010,2026-01-05,Atlanta,Apples,Produce,10,1.50
